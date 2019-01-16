@@ -1,0 +1,4 @@
+﻿  Partition-Data-Setting.cpp
+c:\users\gyutae\desktop\side project\1 level\12월 13일[4] 비트 연산자\partition-data-setting\partition-data-setting\partition-data-setting.cpp(27): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\gyutae\desktop\side project\1 level\12월 13일[4] 비트 연산자\partition-data-setting\partition-data-setting\partition-data-setting.cpp(62): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  Partition-Data-Setting.vcxproj -> C:\Users\GyuTae\Desktop\Side Project\1 Level\12월 13일[4] 비트 연산자\Partition-Data-Setting\Debug\Partition-Data-Setting.exe
